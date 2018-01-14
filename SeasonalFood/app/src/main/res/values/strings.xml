@@ -1,0 +1,15 @@
+<resources>
+    /*Titles or headers
+    <string name="app_name">SeasonalFood</string>
+    <string name="start_greet">Where you at?</string>
+
+    /*States
+    <string name="wa">Western Australia</string>
+    <string name="nsw">New South Wales</string>
+    <string name="qld">Queensland</string>
+    <string name="vic">Victoria</string>
+    <string name="tas">Tasmania</string>
+    <string name="sa">South Australia</string>
+
+
+</resources>
